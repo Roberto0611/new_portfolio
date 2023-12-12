@@ -138,3 +138,24 @@
 .mt-5, .my-5 {
     margin-top: 1rem!important;
 }
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+.footer p {
+    margin-bottom: 5px;
+}
+
+.social-icons a {
+    font-size: 1.5rem;
+    color: #ffffff; 
+    margin: 0 10px;
+    text-decoration: none; 
+}
+
+.social-icons a:hover {
+    color: #ffffff; 
+}
