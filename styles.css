@@ -1,0 +1,57 @@
+.nav {
+    background-color: #131313;
+    padding: 15px;
+}
+
+.nav-link{
+    color: whitesmoke;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+  }  
+  ::-webkit-scrollbar-track {
+    background-color: #7b7b7b;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #1f1f1f;
+    border-radius: 6px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+  }
+
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    z-index: 1; 
+}
+
+.blur-background{
+    filter: blur(5px); 
+}
+
+.about-me.dark-bg {
+    background-color: #343a40; /* Color de fondo oscuro */
+    color: #ffffff; /* Color del texto claro */
+    padding: 80px 0;
+}
+
+.about-me h2 {
+    color: #ffffff; /* Color del título claro */
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.about-me p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: justify; /* Alineación justificada para un mejor aspecto del texto */
+}
