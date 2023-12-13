@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .nav {
     background-color: #131313;
     padding: 15px;
@@ -210,4 +215,30 @@ footer {
 .animate-on-scroll.active {
     opacity: 1;
     transform: translateY(0);
+}
+
+.certificates {
+    background-color: #2c3e50; 
+    color: #ffffff; 
+    padding: 80px 0;
+}
+
+.certificates h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.back-link {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+    transition: color 0.3s ease-in-out;
+}
+
+.back-link:hover {
+    color: #297fb8;
 }
