@@ -244,7 +244,26 @@ footer {
     color: #297fb8;
 }
 
-/* RESPONSIVE */
+/* Certification button */
+.certifications {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.certifications:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+/* ---------------------------RESPONSIVE--------------------------- */
 @media (max-width: 506px){
     h1{
         font-size: 1.5rem;
