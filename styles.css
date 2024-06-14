@@ -77,10 +77,19 @@ body {
     margin-bottom: 30px;
 }
 
+.skill {
+    margin-bottom: 20px;
+}
+
 .skill i {
     font-size: 3rem;
-    margin-right: 10px;
     color: #3498db; 
+    margin-bottom: 10px;
+}
+
+.skill p {
+    color: #ffffff; 
+    font-size: 1.2rem;
 }
 
 .progress-bar {
@@ -90,16 +99,10 @@ body {
 
 .additional-skills {
     margin-top: 50px;
-}
-
-.additional-skills h3 {
-    color: #ffffff; 
-    font-size: 2rem;
-    margin-bottom: 15px;
+    color: #d4d4d4;
 }
 
 .additional-skills p {
-    color: #d4d4d4; 
     font-size: 1.2rem;
     line-height: 1.6;
     text-align: center;
@@ -264,6 +267,17 @@ footer {
 }
 
 /* ---------------------------RESPONSIVE--------------------------- */
+@media (max-width: 768px) {
+    .skills .row {
+        flex-direction: column;
+        align-items: center;
+    }
+    .skills .skill {
+        width: 100%;
+        text-align: center;
+    }
+}
+
 @media (max-width: 506px){
     h1{
         font-size: 1.5rem;
