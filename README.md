@@ -4,7 +4,7 @@ Welcome to my portfolio! This space showcases my journey as a web developer and 
 
 ## Description
 
-I am Roberto Ochoa Cuevas, a passionate 16-year-old web developer based in La Paz, BCS. Currently studying at the "Instituto Mar de Cortes," I am deeply immersed in the realms of JavaScript, HTML, and CSS, with a recent dive into the world of Java.
+I am Roberto Ochoa Cuevas, a passionate 16-year-old web developer based in La Paz, BCS. Currently studying at the "Instituto Mar de Cortes," I am deeply immersed in the realms of JavaScript, HTML, and CSS, with a recent dive into the world of PHP.
 
 Beyond coding, I believe in crafting digital experiences that go beyond mere lines of code. Proficient in both Spanish and English (B2 level), I love connecting with others to share innovative ideas.
 
